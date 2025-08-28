@@ -68,6 +68,4 @@ Future Work:
 
 
 👉 This project is not just about Byju’s, but a lesson in balancing growth with financial discipline.
-Power BI / Tableau (interactive dashboard for revenue & valuation trends)
-
-Excel (data cleaning & preprocessing)
+Power BI / Tableau (interactive dashboard for revenue & valuation trends) and Excel (data cleaning & preprocessing)
